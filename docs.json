@@ -71,14 +71,9 @@
   },
   "contextual": {
     "options": [
-      "copy",
-      "view",
       "chatgpt",
       "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
+      "perplexity"
     ]
   },
   "footer": {
@@ -89,5 +84,9 @@
       "source": "/74eb0f5b9b2e452fa35dddf66d657e27",
       "destination": "/index"
     }
-  ]
+  ],
+  "feedback": {
+    "suggestEdit": true,
+    "raiseIssue": true
+  }
 }
