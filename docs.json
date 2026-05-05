@@ -22,25 +22,24 @@
         ]
       },
       {
-        "group": "Инфраструктура",
+        "group": "Проекты",
         "pages": [
-          "infra/network",
-          "infra/3d-printer",
-          "infra/server",
-          "infra/ps2"
-        ]
-      },
-      {
-        "group": "Гайды",
-        "pages": [
-          "esp32/index",
           {
             "group": "Курс по ESP32",
             "pages": [
+              "esp32/index",
               "esp32/guides/01-digital-pins",
               "esp32/guides/02-analog-and-pwm"
             ]
           }
+        ]
+      },
+      {
+        "group": "Инфраструктура",
+        "pages": [
+          "infra/network",
+          "infra/3d-printer",
+          "infra/ps2"
         ]
       }
     ],
