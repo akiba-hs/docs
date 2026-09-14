@@ -28,6 +28,7 @@
             "group": "Курс по ESP32",
             "pages": [
               "esp32/index",
+              "esp32/guides/00-basics-of-electronics",
               "esp32/guides/01-digital-pins",
               "esp32/guides/02-analog-and-pwm"
             ]
