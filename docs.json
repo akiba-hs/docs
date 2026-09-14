@@ -10,7 +10,7 @@
   "icons": {
     "library": "lucide"
   },
-  "favicon": "/logo.svg",
+  "favicon": "/images/logo.svg",
   "navigation": {
     "groups": [
       {
@@ -28,6 +28,7 @@
             "group": "Курс по ESP32",
             "pages": [
               "esp32/index",
+              "esp32/guides/00-basics-of-electronics",
               "esp32/guides/01-digital-pins",
               "esp32/guides/02-analog-and-pwm"
             ]
@@ -48,8 +49,8 @@
     }
   },
   "logo": {
-    "light": "/badge.svg",
-    "dark": "/badge.svg"
+    "light": "/images/badge.svg",
+    "dark": "/images/badge.svg"
   },
   "navbar": {
     "links": [
