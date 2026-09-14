@@ -10,7 +10,7 @@
   "icons": {
     "library": "lucide"
   },
-  "favicon": "/logo.svg",
+  "favicon": "/images/logo.svg",
   "navigation": {
     "groups": [
       {
@@ -49,8 +49,8 @@
     }
   },
   "logo": {
-    "light": "/badge.svg",
-    "dark": "/badge.svg"
+    "light": "/images/badge.svg",
+    "dark": "/images/badge.svg"
   },
   "navbar": {
     "links": [
