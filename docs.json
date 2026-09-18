@@ -28,7 +28,18 @@
             "group": "Курс по ESP32",
             "pages": [
               "esp32/index",
-              "esp32/guides/00-basics-of-electronics",
+              {
+                "group": "Часть 0: основы электроники",
+                "pages": [
+                  "esp32/guides/00-basics-of-electronics/index",
+                  "esp32/guides/00-basics-of-electronics/electrical-quantities",
+                  "esp32/guides/00-basics-of-electronics/ohms-law",
+                  "esp32/guides/00-basics-of-electronics/resistors",
+                  "esp32/guides/00-basics-of-electronics/capacitors",
+                  "esp32/guides/00-basics-of-electronics/diodes-and-leds",
+                  "esp32/guides/00-basics-of-electronics/breadboard-and-measurements"
+                ]
+              },
               "esp32/guides/01-digital-pins",
               "esp32/guides/02-analog-and-pwm"
             ]
