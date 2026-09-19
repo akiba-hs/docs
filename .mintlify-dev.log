@@ -777,3 +777,2429 @@ edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
 edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
 edited esp32\guides\00-basics-of-electronics\index.mdx
 edited esp32\guides\00-basics-of-electronics\index.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+
+! errors
+parsing error .\esp32\guides\00-basics-of-electronics\ohms-law.mdx:33:1 -
+Unexpected closing tag `</info>`, expected corresponding closing tag for
+`<Info>` (27:1-27:7)
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+
+! errors
+parsing error .\esp32\guides\00-basics-of-electronics\ohms-law.mdx:33:1 -
+Unexpected closing tag `</info>`, expected corresponding closing tag for
+`<Info>` (27:1-27:7)
+parsing error .\esp32\guides\00-basics-of-electronics\ohms-law.mdx:33:1 -
+Unexpected closing tag `</info>`, expected corresponding closing tag for
+`<Info>` (27:1-27:7)
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+
+! errors
+parsing error .\esp32\guides\00-basics-of-electronics\ohms-law.mdx:33:1 -
+Unexpected closing tag `</info>`, expected corresponding closing tag for
+`<Info>` (27:1-27:7)
+parsing error .\esp32\guides\00-basics-of-electronics\ohms-law.mdx:33:1 -
+Unexpected closing tag `</info>`, expected corresponding closing tag for
+`<Info>` (27:1-27:7)
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+
+! errors
+parsing error .\esp32\guides\00-basics-of-electronics\ohms-law.mdx:33:1 -
+Unexpected closing tag `</info>`, expected corresponding closing tag for
+`<Info>` (27:1-27:7)
+parsing error .\esp32\guides\00-basics-of-electronics\ohms-law.mdx:33:1 -
+Unexpected closing tag `</info>`, expected corresponding closing tag for
+`<Info>` (27:1-27:7)
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\images\00-1-kirhgof-law.png
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\images\00-1-kirhgof-law.png
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\images\00-1-kirhgof-law.png
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\images\00-1-kirhgof-law.png
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\images\00-2-kirhgof-law.png
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\images\00-1-kirhgof-law.png
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\images\00-2-kirhgof-law.png
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[Gupdate available - run `mint update` to get the latest version
+
+Run mint login in the cli to activate search
+
+✓ preview ready
+
+  local   → http://localhost:3000
+  network → http://198.18.0.1:3000
+
+press ctrl+c to exit the preview
+
+± changes
+deleted esp32\guides\00-basics-of-electronics.mdx
+added esp32\guides\00-basics-of-electronics\resistors.mdx
+added esp32\guides\00-basics-of-electronics\breadboard-and-measurements.mdx
+added esp32\guides\00-basics-of-electronics\capacitors.mdx
+added esp32\guides\00-basics-of-electronics\diodes-and-leds.mdx
+added esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\00-basics-of-electronics\index.mdx
+edited docs.json
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+added esp32\guides\images\00-electricity-hydro.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+added esp32\guides\images\00-electricity-circuit.png
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\electrical-quantities.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\index.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\images\00-1-kirhgof-law.png
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+added esp32\guides\images\00-2-kirhgof-law.png
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
+edited esp32\guides\00-basics-of-electronics\ohms-law.mdx
