@@ -1,0 +1,7 @@
+
+ ⨯ SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at s (C:\Users\user\.mintlify\previews\3000\mint\apps\client\.next\server\chunks\ssr\_387f09b3._.js:1:35225)
+    at async H (C:\Users\user\.mintlify\previews\3000\mint\apps\client\.next\server\chunks\ssr\apps_client_src_app_(local)_[[___slug]]_layout_tsx_f1266f02._.js:1:8445) {
+  digest: '1490312073'
+}

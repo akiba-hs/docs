@@ -1,14 +1,16 @@
 ﻿---
 title: "Гайд по ESP32, CircuitPython и периферии"
 ---
-
+{/*
+  графики надо больше, ну типа раскрасить как книжку для детей
+*/}
 Гайд по установке и небольшой каталог существующей в хакспейсе периферии с примерами использования (и описанием подводных камней, если они есть).
 
-# Материалы по CircuitPython
-
+<Note>
 Если нужно быстро погрузиться в Python и CircuitPython или освежить знания можно воспользоваться этими ресурсами:
 1. [Туториал по Python](https://docs.python.org/ru/3.14/tutorial/index.html)
 2. [Основы CircuitPython](https://learn.adafruit.com/circuitpython-essentials/circuitpython-essentials)
+</Note>
 
 # Доки по периферии
 
@@ -16,52 +18,52 @@ title: "Гайд по ESP32, CircuitPython и периферии"
   <Card
     title="DHT11, DHT22 — температура и влажность"
     href="/esp32/peripherals/dht11-dht22"
-    img="./peripherals/dht11-dht22-temperatura-i-vlazhnost.png"
+    img="/esp32/peripherals/images/dht11-dht22-temperatura-i-vlazhnost.png"
   />
   <Card
     title="HC-SR04 — измерение расстояния (сонар)"
     href="/esp32/peripherals/hc-sr04"
-    img="./peripherals/hc-sr04-izmerenie-rasstoyaniya-sonar.png"
+    img="/esp32/peripherals/images/hc-sr04-izmerenie-rasstoyaniya-sonar.png"
   />
   <Card
     title="MQ-135 — датчик CO2"
     href="/esp32/peripherals/mq-135"
-    img="./peripherals/mq-135-datchik-co2.png"
+    img="/esp32/peripherals/images/mq-135-datchik-co2.png"
   />
   <Card
     title="RGB-светодиод"
     href="/esp32/peripherals/rgb-led"
-    img="./peripherals/rgb-led-rgb-svetodiod.png"
+    img="/esp32/peripherals/images/rgb-led-rgb-svetodiod.png"
   />
   <Card
     title="Клавиатура"
     href="/esp32/peripherals/keyboard"
-    img="./peripherals/keyboard-klaviatura.png"
+    img="/esp32/peripherals/images/keyboard-klaviatura.png"
   />
   <Card
     title="Джойстик"
     href="/esp32/peripherals/joystick"
-    img="./peripherals/joystick-dzhoystik.png"
+    img="/esp32/peripherals/images/joystick-dzhoystik.png"
   />
   <Card
     title="Telegram-уведомления"
     href="/esp32/peripherals/telegram"
-    img="./peripherals/telegram-uvedomleniya.png"
+    img="/esp32/peripherals/images/telegram-uvedomleniya.png"
   />
   <Card
     title="Пассивная пищалка"
     href="/esp32/peripherals/passive-buzzer"
-    img="./peripherals/passive-buzzer-passivnaya-pishchalka.png"
+    img="/esp32/peripherals/images/passive-buzzer-passivnaya-pishchalka.png"
   />
   <Card
     title="Пульсометр"
     href="/esp32/peripherals/pulse-meter"
-    img="./peripherals/pulse-meter-pulsometr.png"
+    img="/esp32/peripherals/images/pulse-meter-pulsometr.png"
   />
   <Card
     title="Экран RG1602A + плата расширения PCF8574"
     href="/esp32/peripherals/lcd-rg1602a-pcf8574"
-    img="./peripherals/lcd-rg1602a-pcf8574-photo-2023-10-17-19-28-33-jpg.jpg"
+    img="/esp32/peripherals/images/lcd-rg1602a-pcf8574-photo-2023-10-17-19-28-33-jpg.jpg"
   />
 </CardGroup>
 
@@ -141,7 +143,7 @@ circup install adafruit_pn532  # вот так можно быстро пост�
 
 ### ESP32
 
-![красные и желтые не юзаем. порядок пинов может отличаться, но функционал будет одинаковым вне зависимости от отладочной платы](esp32-krasnye-i-zheltye-ne-yuzaem-poryadok-pinov-mozhet-otlichatsy.png)
+![красные и желтые не юзаем. порядок пинов может отличаться, но функционал будет одинаковым вне зависимости от отладочной платы](/esp32/images/esp32-krasnye-i-zheltye-ne-yuzaem-poryadok-pinov-mozhet-otlichatsy.png)
 
 красные и желтые не юзаем. порядок пинов может отличаться, но функционал будет одинаковым вне зависимости от отладочной платы
 
@@ -159,11 +161,11 @@ circup install adafruit_pn532  # вот так можно быстро пост�
 
 ### ESP32-S2
 
-![Untitled](esp32-image-1.png)
+![Untitled](/esp32/images/esp32-image-1.png)
 
 ### ESP32-C3
 
-![Untitled](esp32-image-2.png)
+![Untitled](/esp32/images/esp32-image-2.png)
 
 ## Отличия прошивок CircuitPython
 
